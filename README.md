@@ -30,7 +30,7 @@
 `Next.js` · `React` · `TailwindCSS` · `Shadcn UI` · `Figma`
 
 #### 🛠️ **DevOps & Tools**
-`Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO` · `NGINX`
+`Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO`
 
 #### 💾 **Database**
 `PostgreSQL` · `MongoDB` · `Redis` · `Vector Stores`
