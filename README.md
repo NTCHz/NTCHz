@@ -1,5 +1,3 @@
-<img align="right" width="140" src="https://avatars.githubusercontent.com/NTCHz">
-
 # ⚡ NTCHz — Full-Stack • AI/ML • IoT • Research Engineer
 
 > “Build it. Measure it. Optimize it.”
