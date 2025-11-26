@@ -46,7 +46,6 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📘 **MathBookLM** | AI-Powered Math Learning Platform using RAG & OCR | Next.js · Elysia.js · PostgreSQL · Docker |
-| 📷 **Thai ID & Document AI** | OCR + Layout Parsing + Vector Search Search | FastAPI · PaddleOCR · Qdrant |
 | 🛍️ **Water Center 77 Loyalty** | Real-world Rewards Platform for a Business | Next.js · Prisma · MinIO |
 | 🔐 **Village Security** | Microservices + Auth + Dashboard + DevOps | Elysia.js · Docker · Caddy · Tailwind |
 
