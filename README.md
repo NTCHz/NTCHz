@@ -26,19 +26,19 @@ apps and the DevOps that keeps them running, plus research projects at CMU.
 ### Tech Stack
 
 **AI / Backend**
-`RAG` · `OCR` · `Multi-Provider LLM` · `Elysia.js` · `Bun` · `FastAPI` · `Express`
+`RAG` · `OCR` · `Multi-Provider LLM` · `Computer Vision` · `Elysia.js` · `Bun` · `FastAPI` · `Express` · `.NET`
 
 **Frontend**
-`Next.js` · `React` · `Nuxt` · `Vue` · `Expo / React Native` · `TailwindCSS` · `Shadcn UI`
+`Next.js` · `React` · `Nuxt` · `Vue` · `Expo / React Native` · `Vite` · `TailwindCSS` · `Shadcn UI`
 
 **Data**
-`PostgreSQL` · `Prisma` · `Drizzle ORM` · `MongoDB` · `Redis` · `Vector Stores`
+`PostgreSQL` · `Prisma` · `Drizzle ORM` · `Supabase` · `MongoDB` · `Redis` · `Vector Stores`
 
 **Platform / DevOps**
 `LINE LIFF & OA` · `Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,nextjs,react,vue,nuxt,tailwind,python,fastapi,postgres,prisma,mongodb,redis,docker,linux,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,nextjs,react,vue,nuxt,vite,tailwind,python,fastapi,dotnet,opencv,postgres,prisma,supabase,mongodb,redis,docker,linux,git,figma&theme=dark" />
 </p>
 
 ---
