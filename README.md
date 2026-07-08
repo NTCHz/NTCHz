@@ -19,6 +19,8 @@ apps and the DevOps that keeps them running, plus research projects at CMU.
 - 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
 - ⚡ Backend I reach for first: **Elysia + Bun**, FastAPI, Express, Prisma / Drizzle
 - 📱 Strong on the **LINE Platform** — LIFF, LINE OA bots, messaging automation
+- 🎨 Full-stack frontend across **Next.js, Nuxt/Vue and Expo** mobile
+- 🛠️ I build my own dev tooling — see **[off-by-none](https://github.com/NTCHz/off-by-none)**, my Claude Code skill
 - 🧩 One repo or twelve — I'm comfortable running multi-service systems
 
 ---
