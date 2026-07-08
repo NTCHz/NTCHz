@@ -1,10 +1,9 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Thichanon+R.;Full-Stack+Developer;AI+%7C+RAG+%7C+OCR+Engineer;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Thichanon+(Nonny);Full-Stack+Developer;AI+%7C+RAG+%7C+OCR+%7C+LLM+Engineer;Elysia+%2B+Bun+%7C+Next.js+%7C+LINE+Platform" alt="Typing SVG" />
 </p>
 
-<h1 align="center">✨ Thichanon Ratanasaenwan ✨</h1>
-<h3 align="center">Full-Stack Developer • AI & RAG • DevOps Engineer</h3>
+<h1 align="center">Thichanon Ratanasaenwan</h1>
+<h3 align="center">Full-Stack Developer · AI & RAG · Founder @ Binary Flow</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NTCHz&label=Profile+Views&color=00eaff&style=for-the-badge" />
@@ -12,78 +11,88 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-💻 Passionate about building **scalable AI-driven applications** that actually get used.  
-🤖 Currently focusing on **RAG, OCR, Vector DB, and high-performance backend architectures**.  
-🔧 I love turning complex ideas into **clean, production-ready systems**.  
-📌 I build both **backend infrastructures** and **beautiful UIs that users love**.
+I build production systems end to end — from RAG/LLM backends to LINE-native
+apps and the DevOps that keeps them running. Most of my work ships under
+**Binary Flow**, my dev studio, plus research projects at CMU.
+
+- 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
+- ⚡ Backend I reach for first: **Elysia + Bun**, FastAPI, Express, Prisma / Drizzle
+- 📱 Strong on the **LINE Platform** — LIFF, LINE OA bots, messaging automation
+- 🧩 One repo or twelve — I'm comfortable running multi-service systems
 
 ---
 
-### 🔥 Tech Stack
+### Tech Stack
 
-#### 🧠 **AI + Backend**
-`RAG` · `OCR` · `Vector Search` · `Elysia.js` · `Bun` · `FastAPI` · `PostgreSQL`
+**AI / Backend**
+`RAG` · `OCR` · `Multi-Provider LLM` · `Elysia.js` · `Bun` · `FastAPI` · `Express`
 
-#### 🖥️ **Frontend**
-`Next.js` · `React` · `TailwindCSS` · `Shadcn UI` · `Figma`
+**Frontend**
+`Next.js` · `React` · `Nuxt` · `Vue` · `Expo / React Native` · `TailwindCSS` · `Shadcn UI`
 
-#### 🛠️ **DevOps & Tools**
-`Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO`
+**Data**
+`PostgreSQL` · `Prisma` · `Drizzle ORM` · `MongoDB` · `Redis` · `Vector Stores`
 
-#### 💾 **Database**
-`PostgreSQL` · `MongoDB` · `Redis` · `Vector Stores`
+**Platform / DevOps**
+`LINE LIFF & OA` · `Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,bun,nodejs,python,fastapi,postgres,mongodb,docker,linux,git,tailwind,figma,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,nextjs,react,vue,nuxt,tailwind,python,fastapi,postgres,prisma,mongodb,redis,docker,linux,git,figma&theme=dark" />
 </p>
 
 ---
 
-### 🏗️ Featured Projects
+### Featured Work
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📘 **MathBookLM** | AI-Powered Math Learning Platform using RAG & OCR | Next.js · Elysia.js · PostgreSQL · Docker |
-| 🛍️ **Water Center 77 Loyalty** | Real-world Rewards Platform for a Business | Next.js · Prisma · MinIO |
-| 🔐 **Village Security** | Microservices + Auth + Dashboard + DevOps | Elysia.js · Docker · Caddy · Tailwind |
+Flagship systems (mostly private / client & org repos):
 
-> 💡 *Want me to build something similar? Let’s talk!*
-
----
-
-### 🤝 Looking to Collaborate On
-
-🔎 **RAG + AI knowledge systems (especially Thai / SEA languages)**  
-🗄️ **Database design + distributed microservices**  
-🔐 **Secure authentication (OAuth2, Cookie-JWT, LINE Login)**  
-🎨 **UI Systems that feel premium & intuitive**
+| Project | What it is | Stack |
+|---------|------------|-------|
+| 🤖 **CorpAi** | ChatGPT-style multi-provider LLM chat with RAG | FastAPI · Next.js · Docker · Vector DB |
+| 📘 **MathBookLM** | AI math learning platform — RAG + OCR pipeline | Next.js · PostgreSQL · Docker |
+| 🛠️ **Repair-Pro** | Multi-service repair platform (LIFF + dashboard + PDF engine) | Elysia · Bun · Nuxt · Python |
+| 📦 **FDJ Logistics** | LINE OA tracking + group-manager bot + infra | Next.js · Bun · Prisma · Docker |
+| 🏠 **LangHorpak** | Housing CRM + tenant frontend + API | Next.js · Elysia · Bun · Prisma |
+| 📱 **Resonac App** | Admin dashboard + REST API + mobile app | Next.js · Express · Expo |
+| 🩺 **Nurse / Vein Analysis** | Research tool for medical vein detection | Next.js · Drizzle · Tailwind |
 
 ---
 
-### 💬 Ask Me About
+### Open Source
 
-🚀 **Building scalable full-stack systems**  
-📚 **OCR / Embeddings / Vector Search / RAG**  
-🔧 **DevOps for real-world deployments**
+Things you can actually clone:
+
+- **[off-by-none](https://github.com/NTCHz/off-by-none)** — Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, adversarial spec re-reads.
+- **[multitenant-ecommerce](https://github.com/NTCHz/multitenant-ecommerce)** — multi-tenant e-commerce built on Next.js.
+- **[Village-Security](https://github.com/NTCHz/Village-Security)** — microservices security platform (auth · dashboard · DevOps).
 
 ---
 
-### 🌐 Connect with Me
+### Let's Talk If You're Into
+
+- RAG & LLM systems, especially **Thai / SEA language** knowledge bases
+- **LINE Platform** apps — LIFF, OA bots, messaging automation
+- Elysia + Bun backends and multi-service architecture
+- OCR / embeddings / vector search in real products
+
+---
+
+### Connect
 
 <p align="center">
-  <a href="https://github.com/NTCHz"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/></a>
-  <a href="https://www.linkedin.com/in/thichanon-ratanasaenwan"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45"/></a>
-  <a href="https://www.facebook.com/Thichanon.Ratanasaenwan/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="45"/></a>
-  <a href="https://line.me/ti/p/H49KQVfR_S"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/line.svg" width="45"/></a>
-  <a href="https://instagram.com/ntchz.rw"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45"/></a>
+  <a href="https://github.com/NTCHz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thichanon-ratanasaenwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/Thichanon.Ratanasaenwan/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://line.me/ti/p/H49KQVfR_S"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
+  <a href="https://instagram.com/ntchz.rw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:Nonny.1122@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-📧 **Email:** `Nonny.1122@hotmail.com`
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NTCHz&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -91,11 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NTCHz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Turning over-engineered ideas into products that actually ship 😆🚀</b>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NTCHz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
