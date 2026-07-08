@@ -61,6 +61,7 @@ Flagship systems (mostly private / client & org repos):
 | 🎥 **CCTV Tracking** | Computer-vision people/object tracking | Python · OpenCV |
 | 👥 **Uniqal Staff** | Staff / workforce management system | Next.js · Prisma · Tailwind |
 | 🤳 **Facebook Automation** | Automated FB page / content workflows | Next.js · Prisma |
+| 🧠 **AI Content Planner** | Multi-workspace social SaaS with AI planner & LINE | React · Supabase · shadcn |
 | 🩺 **Nurse / Vein Analysis** | Research tool for medical vein detection | Next.js · Drizzle · Tailwind |
 | 📇 **LangHorpak CRM** | Housing sales & customer CRM dashboard | Next.js · React · Tailwind |
 | 🔮 **Dukpyra** | Pythonic web framework powered by .NET | Python · .NET |
