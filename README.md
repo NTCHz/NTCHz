@@ -62,7 +62,8 @@ Flagship systems (mostly private / client & org repos):
 | 👥 **Uniqal Staff** | Staff / workforce management system | Next.js · Prisma · Tailwind |
 | 🤳 **Facebook Automation** | Automated FB page / content workflows | Next.js · Prisma |
 | 🩺 **Nurse / Vein Analysis** | Research tool for medical vein detection | Next.js · Drizzle · Tailwind |
-| 🧾 **Mini ERP** | Internal ERP — Go API + React frontend | Go · React · Docker |
+| 📇 **LangHorpak CRM** | Housing sales & customer CRM dashboard | Next.js · React · Tailwind |
+| 🔮 **Dukpyra** | Pythonic web framework powered by .NET | Python · .NET |
 
 ---
 
