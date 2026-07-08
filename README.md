@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Thichanon Ratanasaenwan</h1>
-<h3 align="center">Full-Stack Developer · AI & RAG · Founder @ Binary Flow</h3>
+<h3 align="center">Full-Stack Developer · AI & RAG · LINE Platform</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NTCHz&label=Profile+Views&color=00eaff&style=for-the-badge" />
@@ -14,8 +14,7 @@
 ### About Me
 
 I build production systems end to end — from RAG/LLM backends to LINE-native
-apps and the DevOps that keeps them running. Most of my work ships under
-**Binary Flow**, my dev studio, plus research projects at CMU.
+apps and the DevOps that keeps them running, plus research projects at CMU.
 
 - 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
 - ⚡ Backend I reach for first: **Elysia + Bun**, FastAPI, Express, Prisma / Drizzle
