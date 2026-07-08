@@ -55,7 +55,14 @@ Flagship systems (mostly private / client & org repos):
 | 📦 **FDJ Logistics** | LINE OA tracking + group-manager bot + infra | Next.js · Bun · Prisma · Docker |
 | 🏠 **LangHorpak** | Housing CRM + tenant frontend + API | Next.js · Elysia · Bun · Prisma |
 | 📱 **Resonac App** | Admin dashboard + REST API + mobile app | Next.js · Express · Expo |
+| 🎁 **Water Center 77** | Real-world customer loyalty & rewards platform | Next.js · Prisma · MinIO |
+| 💪 **Prime FIT** | Fitness brand platform & landing | Next.js · Bun · Tailwind |
+| 📅 **Meeting LIFF** | LINE LIFF meeting + QR document flow | Next.js · Bun · Prisma |
+| 🎥 **CCTV Tracking** | Computer-vision people/object tracking | Python · OpenCV |
+| 👥 **Uniqal Staff** | Staff / workforce management system | Next.js · Prisma · Tailwind |
+| 🤳 **Facebook Automation** | Automated FB page / content workflows | Next.js · Prisma |
 | 🩺 **Nurse / Vein Analysis** | Research tool for medical vein detection | Next.js · Drizzle · Tailwind |
+| 🧾 **Mini ERP** | Internal ERP — Go API + React frontend | Go · React · Docker |
 
 ---
 
