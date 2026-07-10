@@ -51,21 +51,21 @@ Flagship systems (mostly private / client & org repos):
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| 🤖 **CorpAi** | ChatGPT-style multi-provider LLM chat with RAG | FastAPI · Next.js · Docker · Vector DB |
-| 📘 **MathBookLM** | AI math learning platform — RAG + OCR pipeline | Next.js · PostgreSQL · Docker |
-| 🛠️ **Repair-Pro** | Multi-service repair platform (LIFF + dashboard + PDF engine) | Elysia · Bun · Nuxt · Python |
-| 📦 **FDJ Logistics** | LINE OA tracking + group-manager bot + infra | Next.js · Bun · Prisma · Docker |
-| 🏠 **LangHorpak** | Housing CRM + tenant frontend + API | Next.js · Elysia · Bun · Prisma |
-| 📱 **Resonac App** | Admin dashboard + REST API + mobile app | Next.js · Express · Expo |
-| 🎁 **Water Center 77** | Real-world customer loyalty & rewards platform | Next.js · Prisma · MinIO |
-| 💪 **Prime FIT** | Fitness brand platform & landing | Next.js · Bun · Tailwind |
+| 🤖 **Multi-LLM Chat Platform** | ChatGPT-style multi-provider LLM chat with RAG | FastAPI · Next.js · Docker · Vector DB |
+| 📘 **SmartMath** | AI math learning platform — RAG + OCR pipeline | Next.js · PostgreSQL · Docker |
+| 🛠️ **Repair Service Platform** | Multi-service repair platform (LIFF + dashboard + PDF engine) | Elysia · Bun · Nuxt · Python |
+| 📦 **Logistics LINE OA Manager** | LINE OA tracking + group-manager bot + infra | Next.js · Bun · Prisma · Docker |
+| 🏠 **Dormitory Management Suite** | Housing CRM + tenant frontend + API | Next.js · Elysia · Bun · Prisma |
+| 📱 **Field Ops Platform** | Admin dashboard + REST API + mobile app | Next.js · Express · Expo |
+| 🎁 **Loyalty & Rewards LIFF** | Real-world customer loyalty & rewards platform | Next.js · Prisma · MinIO |
+| 💪 **Fitness Brand Platform** | Fitness brand platform & landing | Next.js · Bun · Tailwind |
 | 📅 **Meeting LIFF** | LINE LIFF meeting + QR document flow | Next.js · Bun · Prisma |
 | 🎥 **CCTV Tracking** | Computer-vision people/object tracking | Python · OpenCV |
 | 👥 **Uniqal Staff** | Staff / workforce management system | Next.js · Prisma · Tailwind |
 | 🤳 **Facebook Automation** | Automated FB page / content workflows | Next.js · Prisma |
 | 🧠 **AI Content Planner** | Multi-workspace social SaaS with AI planner & LINE | React · Supabase · shadcn |
 | 🩺 **Nurse / Vein Analysis** | Research tool for medical vein detection | Next.js · Drizzle · Tailwind |
-| 📇 **LangHorpak CRM** | Housing sales & customer CRM dashboard | Next.js · React · Tailwind |
+| 📇 **Dormitory Suite CRM** | Housing sales & customer CRM dashboard | Next.js · React · Tailwind |
 | 🔮 **Dukpyra** | Pythonic web framework powered by .NET | Python · .NET |
 
 ---
