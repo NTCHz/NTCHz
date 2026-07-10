@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Thichanon+(Nonny);Full-Stack+Developer;AI+%7C+RAG+%7C+OCR+%7C+LLM+Engineer;Elysia+%2B+Bun+%7C+Next.js+%7C+LINE+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Thichanon+(Nont);Full-Stack+Developer;AI+%7C+RAG+%7C+OCR+%7C+LLM+Engineer;Elysia+%2B+Bun+%7C+Next.js+%7C+LINE+Platform" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Thichanon Ratanasaenwan</h1>
