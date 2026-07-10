@@ -6,6 +6,11 @@
 <h3 align="center">Full-Stack Developer · AI & RAG · LINE Platform</h3>
 
 <p align="center">
+  <a href="https://portfolio.vlls.space"><img src="https://img.shields.io/badge/Portfolio-portfolio.vlls.space-ff4d00?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://portfolio.vlls.space/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0c0c0c?style=for-the-badge" alt="Resume" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=NTCHz&label=Profile+Views&color=00eaff&style=for-the-badge" />
 </p>
 
@@ -15,6 +20,8 @@
 
 I build production systems end to end — from RAG/LLM backends to LINE-native
 apps and the DevOps that keeps them running, plus research projects at CMU.
+My portfolio at [portfolio.vlls.space](https://portfolio.vlls.space) is self-hosted
+on my own Proxmox homelab behind a Cloudflare Tunnel.
 
 - 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
 - ⚡ Backend I reach for first: **Elysia + Bun**, FastAPI, Express, Prisma / Drizzle
