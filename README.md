@@ -6,8 +6,8 @@
 <h3 align="center">Full-Stack Developer · AI & RAG · LINE Platform</h3>
 
 <p align="center">
-  <a href="https://portfolio.vlls.space"><img src="https://img.shields.io/badge/Portfolio-portfolio.vlls.space-ff4d00?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://portfolio.vlls.space/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0c0c0c?style=for-the-badge" alt="Resume" /></a>
+  <a href="https://portfolio.shipfold.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.shipfold.com-ff4d00?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://portfolio.shipfold.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0c0c0c?style=for-the-badge" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I build production systems end to end — from RAG/LLM backends to LINE-native
 apps and the DevOps that keeps them running, plus research projects at CMU.
-My portfolio at [portfolio.vlls.space](https://portfolio.vlls.space) is self-hosted
+My portfolio at [portfolio.shipfold.com](https://portfolio.shipfold.com) is self-hosted
 on my own Proxmox homelab behind a Cloudflare Tunnel.
 
 - 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
