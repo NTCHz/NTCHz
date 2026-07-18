@@ -6,10 +6,10 @@
 <text x="210" y="20" text-anchor="middle" font-size="11" fill="#8a8a8a">ntchz@shipfold: activity</text>
 <line x1="0" y1="30" x2="420" y2="30" stroke="#262626"/>
 <text x="24" y="48" font-size="12" fill="#8a8a8a">$ git log --oneline --all</text>
-<text x="24" y="74" font-size="12"><tspan fill="#ff4d00">portfolio</tspan> <tspan fill="#e8e8e8">content: real proof metrics o…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
-<text x="24" y="95" font-size="12"><tspan fill="#ff4d00">portfolio</tspan> <tspan fill="#e8e8e8">feat: live demos section on h…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
-<text x="24" y="116" font-size="12"><tspan fill="#ff4d00">liff-checkin-st…</tspan> <tspan fill="#e8e8e8">fix: actually add admin.html …</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
-<text x="24" y="137" font-size="12"><tspan fill="#ff4d00">liff-checkin-st…</tspan> <tspan fill="#e8e8e8">feat: live admin/organizer vi…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
-<text x="24" y="158" font-size="12"><tspan fill="#ff4d00">liff-checkin-st…</tspan> <tspan fill="#e8e8e8">fix: bust CDN cache for stati…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
-<text x="24" y="179" font-size="12"><tspan fill="#ff4d00">NTCHz</tspan> <tspan fill="#e8e8e8">docs: update portfolio domain…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
+<text x="24" y="74" font-size="12"><tspan fill="#ff4d00">NTCHz</tspan> <tspan fill="#e8e8e8">feat: terminal-themed self-ge…</tspan> <tspan fill="#8a8a8a">2m ago</tspan></text>
+<text x="24" y="95" font-size="12"><tspan fill="#ff4d00">NTCHz</tspan> <tspan fill="#e8e8e8">docs: profile README redesign…</tspan> <tspan fill="#8a8a8a">12m ago</tspan></text>
+<text x="24" y="116" font-size="12"><tspan fill="#ff4d00">portfolio</tspan> <tspan fill="#e8e8e8">content: real proof metrics o…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
+<text x="24" y="137" font-size="12"><tspan fill="#ff4d00">portfolio</tspan> <tspan fill="#e8e8e8">feat: live demos section on h…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
+<text x="24" y="158" font-size="12"><tspan fill="#ff4d00">liff-checkin-st…</tspan> <tspan fill="#e8e8e8">fix: actually add admin.html …</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
+<text x="24" y="179" font-size="12"><tspan fill="#ff4d00">liff-checkin-st…</tspan> <tspan fill="#e8e8e8">feat: live admin/organizer vi…</tspan> <tspan fill="#8a8a8a">5d ago</tspan></text>
 </svg>
