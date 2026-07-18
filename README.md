@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="ntchz@shipfold terminal — Thichanon Ratanasaenwan, Full-Stack Developer · AI & RAG · LINE Platform" width="800"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Thichanon+(Nont);Full-Stack+Developer;AI+%7C+RAG+%7C+OCR+%7C+LLM+Engineer;Elysia+%2B+Bun+%7C+Next.js+%7C+LINE+Platform" alt="Typing SVG" />
 </p>
+
+<h1 align="center">Thichanon Ratanasaenwan</h1>
+<h3 align="center">Full-Stack Developer · AI & RAG · LINE Platform</h3>
 
 <p align="center">
   <a href="https://portfolio.shipfold.com"><img src="https://img.shields.io/badge/Portfolio-portfolio.shipfold.com-ff4d00?style=for-the-badge" alt="Portfolio" /></a>
@@ -8,12 +11,43 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub stats" width="420"/>
-  <img src="assets/activity.svg" alt="Recent activity" width="420"/>
+  <img src="https://komarev.com/ghpvc/?username=NTCHz&label=Profile+Views&color=00eaff&style=for-the-badge" />
 </p>
+
+---
+
+### About Me
+
+I build production systems end to end — from RAG/LLM backends to LINE-native
+apps and the DevOps that keeps them running, plus research projects at CMU.
+My portfolio at [portfolio.shipfold.com](https://portfolio.shipfold.com) is self-hosted
+on my own Proxmox homelab behind a Cloudflare Tunnel.
+
+- 🤖 AI I actually ship: multi-provider LLM chat, RAG, OCR pipelines, CV tracking
+- ⚡ Backend I reach for first: **Elysia + Bun**, FastAPI, Express, Prisma / Drizzle
+- 📱 Strong on the **LINE Platform** — LIFF, LINE OA bots, messaging automation
+- 🎨 Full-stack frontend across **Next.js, Nuxt/Vue and Expo** mobile
+- 🛠️ I build my own dev tooling — see **[off-by-none](https://github.com/NTCHz/off-by-none)**, my Claude Code skill
+- 🧩 One repo or twelve — I'm comfortable running multi-service systems
+
+---
+
+### Tech Stack
+
+**AI / Backend**
+`RAG` · `OCR` · `Multi-Provider LLM` · `Computer Vision` · `Elysia.js` · `Bun` · `FastAPI` · `Express` · `.NET`
+
+**Frontend**
+`Next.js` · `React` · `Nuxt` · `Vue` · `Expo / React Native` · `Vite` · `TailwindCSS` · `Shadcn UI`
+
+**Data**
+`PostgreSQL` · `Prisma` · `Drizzle ORM` · `Supabase` · `MongoDB` · `Redis` · `Vector Stores`
+
+**Platform / DevOps**
+`LINE LIFF & OA` · `Docker` · `Caddy` · `GitHub Actions` · `Linux` · `MinIO`
+
 <p align="center">
-  <img src="assets/graph.svg" alt="Contribution graph" width="420"/>
-  <img src="assets/status.svg" alt="Homelab status" width="420"/>
+  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,nextjs,react,vue,nuxt,vite,tailwind,python,fastapi,dotnet,opencv,postgres,prisma,supabase,mongodb,redis,docker,linux,git,figma&theme=dark" />
 </p>
 
 ---
@@ -48,7 +82,6 @@ Flagship systems (mostly private / client & org repos):
 Things you can actually clone:
 
 - **[off-by-none](https://github.com/NTCHz/off-by-none)** — Claude Code skill for spec-faithful implementation: spec-derived tests, mandatory boundary coverage, adversarial spec re-reads.
-- **[liff-checkin-starter](https://github.com/NTCHz/liff-checkin-starter)** — minimal LINE LIFF event check-in starter (Bun + Elysia), works in a plain browser via demo mode.
 - **[multitenant-ecommerce](https://github.com/NTCHz/multitenant-ecommerce)** — multi-tenant e-commerce built on Next.js.
 - **[Village-Security](https://github.com/NTCHz/Village-Security)** — microservices security platform (auth · dashboard · DevOps).
 
@@ -72,4 +105,17 @@ Things you can actually clone:
   <a href="https://line.me/ti/p/H49KQVfR_S"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
   <a href="https://instagram.com/ntchz.rw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:Nonny.1122@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NTCHz&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NTCHz&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=NTCHz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
