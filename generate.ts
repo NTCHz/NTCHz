@@ -42,7 +42,7 @@ export async function gql(
   const res = await fetchImpl("https://api.github.com/graphql", {
     method: "POST",
     headers: {
-      authorization: `bearer ${process.env.GITHUB_TOKEN}`,
+      authorization: `bearer ${process.env.GH_PAT || process.env.GITHUB_TOKEN}`,
       "content-type": "application/json",
     },
     body: JSON.stringify({ query, variables }),
@@ -53,14 +53,18 @@ export async function gql(
   return json.data;
 }
 
-const QUERY = `query($login: String!, $from: DateTime!) {
+// Default contributionsCollection range = rolling past year, matching the
+// graph on the GitHub profile page. restrictedContributionsCount (private)
+// is only visible with a user PAT (GH_PAT), not the Actions GITHUB_TOKEN.
+const QUERY = `query($login: String!) {
   user(login: $login) {
-    contributionsCollection(from: $from) {
+    contributionsCollection {
       totalCommitContributions
       totalPullRequestContributions
+      restrictedContributionsCount
       contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } }
     }
-    repositories(first: 15, ownerAffiliations: OWNER, privacy: PUBLIC,
+    repositories(first: 15, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], privacy: PUBLIC,
                  orderBy: { field: PUSHED_AT, direction: DESC }) {
       nodes {
         name
@@ -107,7 +111,7 @@ export function renderStats(data: { commits: number; prs: number; langs: Lang[] 
 <text x="${CARD_W - 24}" y="${y}" font-size="12" fill="${theme.dim}" text-anchor="end">${pct}%</text>`;
     })
     .join("\n");
-  const body = `<text x="24" y="52" font-size="12" fill="${theme.dim}">$ git stats --since jan</text>
+  const body = `<text x="24" y="52" font-size="12" fill="${theme.dim}">$ git stats --past-year</text>
 <text x="24" y="76" font-size="13" fill="${theme.text}">commits <tspan fill="${theme.accent}" font-weight="bold">${data.commits}</tspan>   pull requests <tspan fill="${theme.accent}" font-weight="bold">${data.prs}</tspan></text>
 <text x="24" y="98" font-size="12" fill="${theme.dim}">top languages</text>
 ${langRows}`;
@@ -145,7 +149,7 @@ export function renderGraph(weeks: Week[], totalContributions: number): string {
         .join(""),
     )
     .join("\n");
-  const body = `<text x="24" y="48" font-size="12" fill="${theme.dim}">$ contributions --since jan  <tspan fill="${theme.accent}">${totalContributions} total</tspan></text>
+  const body = `<text x="24" y="48" font-size="12" fill="${theme.dim}">$ contributions --past-year  <tspan fill="${theme.accent}">${totalContributions} total</tspan></text>
 ${cells}
 <text x="24" y="${y0 + 7 * (cell + gap) + 18}" font-size="10" fill="${theme.dim}">less</text>
 ${HEAT.map((c, i) => `<rect x="${52 + i * 9}" y="${y0 + 7 * (cell + gap) + 10}" width="7" height="7" rx="1" fill="${c}"/>`).join("")}
@@ -171,9 +175,8 @@ export function renderStatus(check: StatusCheck): string {
 // ---------- main ----------
 
 async function main() {
-  const from = new Date(new Date().getFullYear(), 0, 1).toISOString();
   const [data, status] = await Promise.all([
-    gql(QUERY, { login: LOGIN, from }),
+    gql(QUERY, { login: LOGIN }),
     checkStatus("https://portfolio.shipfold.com"),
   ]);
 
@@ -202,7 +205,7 @@ async function main() {
   // so a failure never leaves a broken/partial SVG behind.
   const out: Record<string, string> = {
     "assets/stats.svg": renderStats({
-      commits: cc.totalCommitContributions,
+      commits: cc.totalCommitContributions + cc.restrictedContributionsCount,
       prs: cc.totalPullRequestContributions,
       langs,
     }),

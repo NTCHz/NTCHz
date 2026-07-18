@@ -17,6 +17,8 @@ jobs:
       - run: bun run generate.ts
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional user PAT — needed to count private (restricted) contributions.
+          GH_PAT: ${{ secrets.GH_PAT }}
           GH_LOGIN: NTCHz
       - name: Commit if changed
         run: |
